@@ -1,0 +1,20 @@
+{
+  "name": "default-package",
+  "description": "Test Package for Testing!",
+  "version": "0.0.1",
+  "tags": [
+  ],
+  "files": [
+  ],
+  "dependencies": {
+    "trailpack-blink": "^0.1.4"
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}

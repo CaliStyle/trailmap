@@ -1,0 +1,20 @@
+{
+  "name": "test-package-2",
+  "description": "Test Package for Testing!",
+  "version": "0.0.1",
+  "tags": [
+  ],
+  "files": [
+  ],
+  "dependencies": {
+    "yargs": "^3.27.0"
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}

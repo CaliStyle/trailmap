@@ -31,7 +31,7 @@
     "completion"
   ],
   "scripts": {
-    "test": "eslint --fix . && mocha --reporter spec"
+    "test": "eslint --fix . && lab test/*.js -cv -I Reflect"
   },
   "dependencies": {
     "archy": "^1.0.0",
