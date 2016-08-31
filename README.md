@@ -2,8 +2,8 @@
 Trailmap - A preboot for Trails.js Trailpacks
 
 Trailpacks are amazing little modules that give a Trails App tons of functionality.
-However, it can be difficult of them to perform operations outside of a Trails App container. 
-Trailmap fixes this problem allowing every Trailpack to have a versatile preboot. 
+However, it can be difficult for them to perform operations outside of a Trails App container. 
+Trailmap fixes this problem allowing every Trailpack to have a versatile preboot that's as easy as installing a dependency. 
 
 This means that you can now write your trailpacks with a peboot function.  Trailmap will loop through  all your enabled trailpacks in `config/main.js` and preform the preboot before handing the reigns over to the next step in your execution strategy.
 
@@ -29,6 +29,10 @@ As part of package.json
   }
   ...
 }
+```
+As part of `.trailmap`
+```js
+// TODO
 ```
 
 ## Trialpack Example of Preboot function
