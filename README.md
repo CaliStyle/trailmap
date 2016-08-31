@@ -18,7 +18,7 @@ There are countless uses cases but here are a few favorites:
 Directly from terminal:
 ```sh
 $ trailmap
-``
+```
 
 As part of package.json
 ```json
