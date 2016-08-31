@@ -21,7 +21,7 @@ $ trailmap
 ```
 
 As part of package.json
-```js
+```
 {
   ...
   "scripts": {
