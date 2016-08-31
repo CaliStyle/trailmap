@@ -20,22 +20,25 @@ Directly from terminal:
 $ trailmap
 ```
 
+```sh
+$ trailmap && node server.js
+```
+
 As part of package.json
 ```
 {
-  ...
   "scripts": {
     "start": “trailmap && node server.js"
   }
-  ...
 }
 ```
+
 As part of `.trailmap`
 ```js
 // TODO
 ```
 
-## Trialpack Example of Preboot function
+### Trialpack Example of Preboot function
 ```js
 // TODO
 ```
