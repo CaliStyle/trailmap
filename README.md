@@ -22,8 +22,12 @@ $ trailmap
 
 As part of package.json
 ```js
-"scripts": {
+{
+  ...
+  "scripts": {
     "start": “trailmap && node server.js"
+  }
+  ...
 }
 ```
 
